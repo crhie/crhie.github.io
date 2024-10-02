@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://crhie.github.io/hCk/sitemap.hCk.gz
